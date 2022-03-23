@@ -1,0 +1,14 @@
+.item2 {
+	color: red;
+}
+.item1 {
+	display: none;
+}
+.item3 {
+	font-size: 150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 500px;
+	color: blue;
+}
